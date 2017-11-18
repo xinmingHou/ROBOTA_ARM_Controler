@@ -1,0 +1,2 @@
+# ROBOTA_ARM_Controler
+用python封装了ROBOTA_ARM2机器人的串口控制命令。
